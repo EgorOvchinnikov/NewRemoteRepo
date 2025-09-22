@@ -7,4 +7,7 @@ int main() {
 		cout << "Hello world!";
 		x++;
 	}
+	int a = 5;
+	int b = 3;
+	cout << a + b;
 }
